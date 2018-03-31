@@ -1,0 +1,19 @@
+Project Folder Architecture
+Project Assets:
+Animation: we will store animations for objects in the game
+Effects: Store effects
+Material: Store materials, textures are stored in the Texture folder
+Models: Game models for thing such as buildings, people
+Prefabs
+Scenes: 
+Scripts// we can add more folders to stay organized
+-	Core: where we will store classes such as building class, people class, material class
+-	Manager: classes that affect the functionality of the game. Such as custom physics, game controllers, 
+-	Utility: 
+Shaders
+Sounds
+Sprites
+Textures
+
+
+
